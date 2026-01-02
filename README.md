@@ -6,7 +6,7 @@
 ---
 
 🎯 **Sobre mim:**
-- 🚀 Desenvolvedor **Back-End** em formação
+- 🚀 Análista de **dados** em formação
 - 💼 Estudante de **Engenharia de Software**
 - 🧪 Apaixonado por construção de sites, Apps e projetos reais.
 
