@@ -1,6 +1,6 @@
 <h1 align="center">Opa! tudo bem? Eu me chamo Glauber Luigi, bem-vindo ao meu perfil!</h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Análista+de+Dados+em+formação;Desenvolvedor+Full+Stack;Construindo+Sites+e+soluções+reais&center=true&width=450&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Análista+de+Dados+em+formação;Desenvolvedor+Full-Stack;Construindo+Sites+e+soluções+reais&center=true&width=450&height=30">
 </p>
 
 ---
