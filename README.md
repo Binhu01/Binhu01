@@ -6,7 +6,7 @@
 ---
 
 🎯 **Sobre mim:**
-- 🚀 Análista de **dados** em formação
+- 🚀 Analista de **dados** em formação
 - 💼 Estudante de **Engenharia de Software**
 - 🧪 Apaixonado por construção de sites, Apps e projetos reais.
 
